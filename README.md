@@ -83,7 +83,13 @@ Aplicación desplegada y ejecutandose en AWS, en la instancia EC2
 
 ![](resources/awspublic.png)
 
+Configuración del Api gateway 
 
+![](resources/configapigateway.png)
+
+API gateway en ejecución
+
+![](resources/apigateway.png)
 
 ## Ejecutando las pruebas
 
