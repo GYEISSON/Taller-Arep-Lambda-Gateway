@@ -70,6 +70,20 @@ mvn javadoc:javadoc
 ```
 
 La documentación quedará en la ruta \target\site\apidocs\edu\eci\escuelaing\arep
+## Despliegue en AWS 
+EC2 Instancia creada  
+
+![](resources/ec2aws.png)
+
+Repositorio de docker 
+
+![](resources/repodocker.png)
+
+Aplicación desplegada y ejecutandose en AWS, en la instancia EC2
+
+![](resources/awspublic.png)
+
+
 
 ## Ejecutando las pruebas
 
