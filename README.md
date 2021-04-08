@@ -91,6 +91,12 @@ API gateway en ejecución
 
 ![](resources/apigateway.png)
 
+## Aplicación JS
+
+Link del repositorio 
+
+[Front End](https://github.com/GYEISSON/Arep-Front-End-Lambda-Gateway)
+
 ## Ejecutando las pruebas
 
 Para correr las pruebas ejecutamos la siguiente linea:
